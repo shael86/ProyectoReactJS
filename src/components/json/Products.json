@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nombre": "CPU GAMER-POWER",
+        "descripcion": " iCUE i9 13900KF / 64GB RAM / 2TB SSD / RTX 4090 24GB + Windows 11 - Pc Gaming Negro",
+        "precio": "5136",
+        "imagen": "https://i.blogs.es/5e2772/gamingpc1/1366_2000.jpg",
+        "stock":4 ,
+        "categoria":"CPU"
+    },
+    {
+        "id": 2,
+        "nombre": "CPU GAMER-HART",
+        "descripcion": "Ready Ryzen 5 3600 / 16GB RAM / 500GB SSD / RTX 3060 12GB + Windows 11 - Pc Gaming Negro",
+        "precio": "1222",
+        "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/1072/10720098/1248-pccom-ready-amd-ryzen-5-3600-16gb-500gb-ssd-rtx3060-windows-11-home-negro-comprar.jpg",
+        "stock":3 ,
+        "categoria":"CPU"
+    },
+    {
+        "id": 3,
+        "nombre": "CPU GAMER-FUNNY",
+        "descripcion": "Ready Intel Core i5-12400F / 16GB / 1TB SSD / RTX 3060",
+        "precio": "874",
+        "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/1077/10770798/1897-pccom-ready-i5-12400f-16gb-ram-1tb-ssd-rtx-3060-12gb-pc-gaming.jpg",
+        "stock":6 ,
+        "categoria":"CPU"
+    },
+    {
+        "id": 4,
+        "nombre": "AURICULARES GAMING ASTRO",
+        "descripcion": "Astro Gaming A50 Wireless Auriculares Gaming Inalámbricos + Estación Base PC/Xbox One",
+        "precio": "339",
+        "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/24/245429/asdqwd.jpg",
+        "stock":9 ,
+        "categoria":"auriculares"
+    },
+    {
+        "id": 5,
+        "nombre": "AURICULARES GAMING LOGITECH",
+        "descripcion": "Logitech G733 Lightspeed RGB Auriculares con Micrófono Inalámbricos Gaming Negros",
+        "precio": "128",
+        "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/31/317616/1650-logitech-g733-auriculares-gaming-inalambricos-negros.jpg",
+        "stock":10 ,
+        "categoria":"auriculares"
+    },
+    {
+        "id": 6,
+        "nombre": "AURICULARES GAMING ECO",
+        "descripcion": "Cascos Gaming, Auriculares Gaming con Micrófono Rotatorio, Luz RGB, Premium Stereo, Orejeras Ligero Cómodo, para PS4 PS5 Xbox PC Switch Tableta Laptop",
+        "precio": "18",
+        "imagen": "https://m.media-amazon.com/images/I/61tl-Fi6-uL._AC_SX522_.jpg",
+        "stock":15 ,
+        "categoria":"auriculares"
+    },
+    {
+        "id": 7,
+        "nombre": "MOUSE Y TECLADO Salandens",
+        "descripcion": "Salandens Kit Teclado Y Mouse Alambrico Gamer, Juego De Teclado y Mouse Combo Wired Arco Iris LED Retroiluminado USB Teclado De Juego Metal",
+        "precio": "310",
+        "imagen": "https://m.media-amazon.com/images/I/717VQD-M1pL._AC_SY450_.jpg",
+        "stock": 8,
+        "categoria":"MOUSE Y TECLADO"
+    },
+    {
+        "id": 8,
+        "nombre": "MOUSE Y TECLADO KRUSHER RGB",
+        "descripcion": "TECLADO SEMIMECÁNICOS (MECÁNICO-MEMBRANA) RGB / RATÓN ÓPTICO RGB",
+        "precio": "100",
+        "imagen": "https://www.vsgamers.es/thumbnails/product_gallery_medium/uploads/products/krom/PACK/krusher/pack-teclado-raton-gaming-krom-krusher-rgb-main.jpg",
+        "stock":10 ,
+        "categoria":"MOUSE Y TECLADO"
+    },
+    {
+        "id": 9,
+        "nombre": "MOUSE Y TECLADO ECO",
+        "descripcion": "Teclado y ratón inalámbricos con retroiluminación RGB, periférico ergonómico iluminado, 2,4G, para PC, ordenador portátil, oficina y hogar",
+        "precio": "37",
+        "imagen": "https://m.media-amazon.com/images/I/81M4YBzdKNL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "stock":13 ,
+        "categoria":"MOUSE Y TECLADO"
+    }
+    ]
